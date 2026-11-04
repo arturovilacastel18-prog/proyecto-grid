@@ -1,1 +1,1 @@
-# proyecto+-grid
+# proyecto-grid
